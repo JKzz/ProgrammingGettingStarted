@@ -1,5 +1,5 @@
 ## ProgrammingGettingStarted
-	This git just for Python learning.
+	This git just for Program learning.
 	Over.
 
 
